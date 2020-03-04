@@ -1,0 +1,18 @@
+{
+  "name": "phpfunc/netto-brutto",
+  "description": "Library for creating calculation between netto - brutto with different taxes",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "tom-sapletta-com",
+      "email": "tom@sapletta.com"
+    }
+  ],
+  "require": {
+    
+  },
+  "require-dev": {
+    "phpunit/phpunit": "3.7.*"
+  }
+}
